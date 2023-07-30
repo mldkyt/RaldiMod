@@ -1,0 +1,9 @@
+
+vcsharpsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Ãªæ‡8õêˆÍ˜1
+vcsharpsquid:S3776j"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Èúêõ8ÛÑîÌ˜1
+Qcsharpsquid:S108d")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ8¡ÌŒã˜1
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ÏĞşÿÿÿÿ8¦»îÌ˜1
+Ycsharpsquid:S2184n"5Cast one of the operands of this division to 'float'.(—ìŸ½8ãô¥Ë˜1
+Ycsharpsquid:S2184o"5Cast one of the operands of this division to 'float'.(Éçá¯8ÛÑîÌ˜1
+scsharpsquid:S2223"JChange the visibility of 'FurryDisabled' or make it 'const' or 'readonly'.(ÏĞşÿÿÿÿ8¦»îÌ˜1
+rcsharpsquid:S2696’"HRemove this set, which updates a 'static' field from an instance method.(ñË‹Ùùÿÿÿÿ8ëŠïÌ˜1
